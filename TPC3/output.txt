@@ -1,0 +1,703 @@
+=== PERSONAGENS ===
+Rony: 394
+Hagrid: 298
+Hermione: 267
+Snape: 158
+Dumbledore: 141
+Duda: 132
+Neville: 114
+Quirrell: 112
+Minerva: 85
+Draco: 82
+Sr.: 67
+Válter: 56
+Madame: 45
+Olívio: 43
+Malfoy: 37
+Percy: 35
+Voldemort: 34
+Fred: 34
+Acho: 31
+Dursley: 30
+Jorge: 30
+Tio: 30
+Gringotes: 26
+Potter: 23
+Goyle: 22
+Weasley: 22
+Simas: 19
+Pedro: 15
+Profa: 14
+Carlinhos: 14
+Nicolau: 14
+Firenze: 14
+Flamel: 12
+Sei: 11
+Tia: 11
+Edwiges: 11
+Crabbe: 11
+Alvo: 10
+Lino: 10
+Flitwick: 9
+Certo: 8
+Hum: 7
+Perebas: 7
+Wood: 7
+Professor: 6
+Aposto: 6
+Sim: 6
+Sabe: 6
+Pirraça: 6
+Canino: 6
+Fofo: 6
+Olivaras: 5
+Mamãe: 5
+Gina: 5
+Espero: 5
+Vamos: 5
+Dino: 5
+Severo: 5
+Mulher: 5
+Sonserina: 5
+Marcos: 5
+Tiago: 4
+Apanhe: 4
+Papai: 4
+Bum: 4
+Rúbeo: 4
+Tom: 4
+Harry: 4
+Parvati: 4
+Olhe: 4
+Herbologia: 4
+Agouro: 4
+Lílian: 3
+Deus: 3
+Trouxe: 3
+Mal: 3
+Prof: 3
+Olá: 3
+Ouvi: 3
+Sou: 3
+Agripa: 3
+Ana: 3
+Terêncio: 3
+Binns: 3
+Deixem: 3
+Srta: 3
+Grifinória: 3
+Angelina: 3
+Imagino: 3
+J.K.: 2
+Ernesto: 2
+Eduardo: 2
+Trinta: 2
+Pai: 2
+Saiam: 2
+Cadê: 2
+Prezado: 2
+Pior: 2
+Petúnia: 2
+Dê: 2
+Emerico: 2
+Dóris: 2
+Acha: 2
+Tenho: 2
+Verdade: 2
+Feitiço: 2
+Gorducho: 2
+Ouviu: 2
+Chapéu: 2
+Lilá: 2
+Mesa: 2
+Faça: 2
+Tinham: 2
+Devia: 2
+Estavam: 2
+Acabei: 2
+Granger: 2
+Johnson: 2
+Adriano: 2
+Bell: 2
+Spinnet: 2
+Apanhei: 2
+Coma: 2
+Perenelle: 2
+Aquilo: 2
+Ronan: 2
+Trevo: 2
+Vem: 2
+Genial: 2
+Lorde: 2
+Mestre: 2
+Acredito: 2
+Biz: 1
+Lia: 1
+Pottermore: 1
+Editora: 1
+Direitos: 1
+Mary: 1
+Baixelivros.org: 1
+Continue: 1
+Anne: 1
+Di: 1
+Dudley: 1
+Esquecera: 1
+Gente: 1
+Pigarreou: 1
+Abriuo: 1
+Imaginei: 1
+Aceita: 1
+Godric: 1
+Tiago...: 1
+Vim: 1
+Sirius: 1
+Ficará: 1
+Psiu: 1
+Enxugando: 1
+Acorde: 1
+Penteie: 1
+Tobias: 1
+Néris: 1
+Seu: 1
+Ivone: 1
+Dudinha: 1
+Meia: 1
+Devagarinho: 1
+VENHAM: 1
+Cai: 1
+Apanhado: 1
+Dênis: 1
+Górdon: 1
+Cutuque: 1
+Little: 1
+Comeu: 1
+Queimei: 1
+Berrara: 1
+Ponham: 1
+Railview: 1
+Segunda-feira: 1
+Aquelas: 1
+Silêncio: 1
+Guardião: 1
+Escondeu: 1
+V.: 1
+Entreguei: 1
+McKinnon: 1
+Sumiu: 1
+Duendes: 1
+Voando: 1
+Cornélio: 1
+Maneiro: 1
+Bagshot: 1
+Arsênio: 1
+Newton: 1
+Quintino: 1
+Crockford: 1
+Falei: 1
+Feiticeiras: 1
+Viemos: 1
+Quantas: 1
+Borrões: 1
+Vindicto: 1
+Carvalho: 1
+Boa: 1
+Bordo: 1
+Freguês: 1
+Puxa: 1
+Pagou: 1
+Paddington: 1
+Tivera: 1
+Decidira: 1
+Resmungo: 1
+Vó: 1
+Ah: 1
+M.: 1
+Roniquinho: 1
+Perguntei: 1
+Coitadinho: 1
+Gui: 1
+Ptolomeu: 1
+Morgana: 1
+Hengisto: 1
+Alberico: 1
+Circe: 1
+Paracelso: 1
+Desculpem: 1
+Vai: 1
+Tentei: 1
+Sol: 1
+Andei: 1
+Aooooooh: 1
+Voltarei: 1
+Perdoar: 1
+Pacientes: 1
+Homens: 1
+Teorêncio: 1
+Mádi: 1
+Mila: 1
+Justino: 1
+Moon: 1
+Perks: 1
+Sara: 1
+Difícil: 1
+Lisa: 1
+Blás: 1
+Pateta: 1
+Chorão: 1
+Cavalheiro: 1
+Nicholas: 1
+Sir: 1
+Algi: 1
+Enid: 1
+Hoggy: 1
+Oooooooooh: 1
+Calourinhos: 1
+Argo: 1
+Mágica: 1
+Menino: 1
+Levem-no: 1
+Ânimo: 1
+Típico: 1
+Vovó: 1
+Mantenham: 1
+Pulso: 1
+Pansy: 1
+Entrem: 1
+Século: 1
+Jogue: 1
+Subiram: 1
+Tsc: 1
+Peça: 1
+Retrocederam: 1
+Nem: 1
+Comet: 1
+Aerodinâmica: 1
+Segure: 1
+Abram: 1
+Granger!: 1
+Saí: 1
+Quadribol: 1
+Bateu: 1
+Salão: 1
+Montem: 1
+Alícia: 1
+Katie: 1
+Bletchley: 1
+Pucey: 1
+Deviam: 1
+Jordan: 1
+Descobri: 1
+Seja: 1
+Nomes: 1
+Seção: 1
+Recebemos: 1
+Desembrulhouo: 1
+J.: 1
+Jred: 1
+Forge: 1
+Oãça: 1
+Respirando: 1
+Ronald: 1
+Senhor: 1
+Falando: 1
+Finja: 1
+Encontrei: 1
+Li-o: 1
+Distrair: 1
+Locomotor: 1
+Lufa-Lufa: 1
+Dracos: 1
+Agarrara: 1
+Vemos: 1
+Acham: 1
+Queríamos: 1
+Aquela: 1
+Fico: 1
+Solte: 1
+Decidi: 1
+Caro: 1
+Teremos: 1
+Norberto: 1
+Rindo: 1
+Sigam-me: 1
+Encarou: 1
+Venham: 1
+Apareça: 1
+Cautela: 1
+Boa-noite: 1
+Acabavam: 1
+Fiquem: 1
+Mirou: 1
+Tomei: 1
+Continuava: 1
+Ambicioso: 1
+Perdoe: 1
+Barão: 1
+Pam: 1
+Gosta: 1
+Diga: 1
+Dou: 1
+Golpeou: 1
+Trêmulo: 1
+McGonagall: 1
+Ali: 1
+Tampouco: 1
+Saia: 1
+Diga-me: 1
+Matei: 1
+MATE-O: 1
+Abandonou: 1
+Absolutamente: 1
+Fiz: 1
+Mandei: 1
+Preciso: 1
+Sra.: 1
+Ande: 1
+Azkaban: 1
+
+=== CO-OCORRÊNCIAS ===
+Hermione -- Rony: 72
+Hermione -- Neville: 16
+Fred -- Jorge: 15
+Draco -- Rony: 12
+Duda -- Válter: 11
+Duda -- Pedro: 11
+Neville -- Rony: 11
+Crabbe -- Goyle: 10
+Draco -- Goyle: 10
+Hagrid -- Rony: 10
+Rony -- Snape: 9
+Hagrid -- Hermione: 9
+Crabbe -- Draco: 8
+Hermione -- Snape: 8
+Draco -- Neville: 8
+Malfoy -- Neville: 7
+Quirrell -- Snape: 7
+Dumbledore -- Hagrid: 5
+Goyle -- Rony: 5
+Hagrid -- Snape: 5
+Draco -- Snape: 5
+Dumbledore -- Minerva: 4
+Neville -- Simas: 4
+Madame -- Neville: 4
+Flamel -- Rony: 4
+Malfoy -- Rony: 4
+Snape -- Voldemort: 4
+Quirrell -- Voldemort: 4
+Duda -- Tia: 3
+Duda -- Dursley: 3
+Rony -- Voldemort: 3
+Dumbledore -- Nicolau: 3
+Crabbe -- Rony: 3
+Acho -- Rony: 3
+Dino -- Rony: 3
+Draco -- Hermione: 3
+Minerva -- Rony: 3
+Hagrid -- Neville: 3
+Madame -- Rony: 3
+Dumbledore -- Rony: 3
+Hermione -- Malfoy: 3
+Harry -- Hermione: 3
+Canino -- Neville: 3
+Canino -- Malfoy: 3
+Duda -- Sr.: 2
+Lílian -- Tiago: 2
+Dursley -- Pedro: 2
+Duda -- Tio: 2
+Dursley -- Válter: 2
+Hagrid -- Válter: 2
+Duda -- Petúnia: 2
+Gringotes -- Hagrid: 2
+Hagrid -- Madame: 2
+Perebas -- Rony: 2
+Lilá -- Rony: 2
+Hermione -- Simas: 2
+Flitwick -- Snape: 2
+Minerva -- Snape: 2
+Goyle -- Malfoy: 2
+Crabbe -- Malfoy: 2
+Jorge -- Snape: 2
+Carlinhos -- Rony: 2
+Gringotes -- Rony: 2
+Minerva -- Wood: 2
+Hermione -- Mulher: 2
+Hermione -- Parvati: 2
+Lino -- Weasley: 2
+Dumbledore -- Hermione: 2
+Harry -- Rony: 2
+Neville -- Snape: 2
+Dumbledore -- Snape: 2
+Goyle -- Neville: 2
+Fofo -- Quirrell: 2
+Herbologia -- Rony: 2
+Herbologia -- Hermione: 2
+Canino -- Hagrid: 2
+Hagrid -- Malfoy: 2
+Canino -- Hermione: 2
+Dumbledore -- Edwiges: 2
+Direitos -- J.K.: 1
+Baixelivros.org -- J.K.: 1
+Anne -- Di: 1
+Duda -- Dudley: 1
+Hum -- Pigarreou: 1
+Imaginei -- Profa: 1
+Godric -- Voldemort: 1
+Lílian -- Tiago...: 1
+Hagrid -- Psiu: 1
+Minerva -- Professor: 1
+Enxugando -- Hagrid: 1
+Néris -- Seu: 1
+Seu -- Tobias: 1
+Néris -- Tobias: 1
+Dursley -- Meia: 1
+Meia -- Pedro: 1
+Duda -- Meia: 1
+Pedro -- Válter: 1
+Pedro -- Tio: 1
+Dênis -- Górdon: 1
+Dênis -- Pedro: 1
+Duda -- Dênis: 1
+Górdon -- Pedro: 1
+Duda -- Górdon: 1
+Apanhe -- Duda: 1
+Apanhe -- Válter: 1
+Cutuque -- Duda: 1
+Railview -- Válter: 1
+Guardião -- Rúbeo: 1
+Prezado -- V.: 1
+Dursley -- Hagrid: 1
+Acho -- Dumbledore: 1
+Hagrid -- Petúnia: 1
+Duda -- Hagrid: 1
+Dê -- Hagrid: 1
+Hagrid -- Voando: 1
+Cornélio -- Dumbledore: 1
+Bagshot -- Emerico: 1
+Arsênio -- Newton: 1
+Hagrid -- Tom: 1
+Dóris -- Sr.: 1
+Acho -- Dursley: 1
+Hum -- Sr.: 1
+Olivaras -- Sr.: 1
+Hagrid -- Sr.: 1
+Pagou -- Sr.: 1
+Hagrid -- Paddington: 1
+Quirrell -- Sr.: 1
+Decidira -- Edwiges: 1
+Dursley -- Edwiges: 1
+Ah -- Neville: 1
+Certo -- Rony: 1
+Carlinhos -- Gui: 1
+Duda -- Rony: 1
+Agripa -- Ptolomeu: 1
+Circe -- Morgana: 1
+Morgana -- Paracelso: 1
+Hengisto -- Morgana: 1
+Dumbledore -- Morgana: 1
+Alberico -- Morgana: 1
+Circe -- Paracelso: 1
+Circe -- Hengisto: 1
+Circe -- Dumbledore: 1
+Alberico -- Circe: 1
+Hengisto -- Paracelso: 1
+Dumbledore -- Paracelso: 1
+Alberico -- Paracelso: 1
+Dumbledore -- Hengisto: 1
+Alberico -- Hengisto: 1
+Alberico -- Dumbledore: 1
+Andei -- Dumbledore: 1
+Gringotes -- Papai: 1
+Goyle -- Perebas: 1
+Hagrid -- Minerva: 1
+Profa -- Voltarei: 1
+Teorêncio -- Terêncio: 1
+Ana -- Teorêncio: 1
+Ana -- Terêncio: 1
+Lilá -- Mádi: 1
+Mádi -- Rony: 1
+Perks -- Sara: 1
+Moon -- Sara: 1
+Moon -- Perks: 1
+Percy -- Weasley: 1
+Lisa -- Rony: 1
+Blás -- Percy: 1
+Chapéu -- Minerva: 1
+Nicholas -- Simas: 1
+Hermione -- Percy: 1
+Dumbledore -- Weasley: 1
+Dumbledore -- Percy: 1
+Malfoy -- Snape: 1
+Argo -- Pior: 1
+Binns -- Emerico: 1
+Quirrell -- Simas: 1
+Quirrell -- Weasley: 1
+Edwiges -- Rony: 1
+Potter -- Snape: 1
+Menino -- Neville: 1
+Levem-no -- Snape: 1
+Simas -- Snape: 1
+Levem-no -- Simas: 1
+Ouvi -- Snape: 1
+Rony -- Ânimo: 1
+Fred -- Snape: 1
+Draco -- Duda: 1
+Draco -- Hagrid: 1
+Madame -- Vamos: 1
+Neville -- Vamos: 1
+Draco -- Parvati: 1
+Acho -- Draco: 1
+Acho -- Neville: 1
+Minerva -- Olívio: 1
+Mal -- Severo: 1
+Crabbe -- Jorge: 1
+Crabbe -- Fred: 1
+Goyle -- Jorge: 1
+Draco -- Jorge: 1
+Fred -- Goyle: 1
+Draco -- Fred: 1
+Jogue -- Rony: 1
+Aposto -- Rony: 1
+Feitiço -- Hermione: 1
+Feitiço -- Rony: 1
+Hermione -- Nem: 1
+Draco -- Flitwick: 1
+Flitwick -- Rony: 1
+Draco -- Potter: 1
+Minerva -- Potter: 1
+Certo -- Olívio: 1
+Acho -- Olívio: 1
+Flitwick -- Neville: 1
+Lilá -- Parvati: 1
+Parvati -- Rony: 1
+Hermione -- Lilá: 1
+Acabei -- Hermione: 1
+Percy -- Snape: 1
+Minerva -- Quirrell: 1
+Minerva -- Srta: 1
+Grifinória -- Hermione: 1
+Grifinória -- Profa: 1
+Hermione -- Profa: 1
+Rony -- Simas: 1
+Fred -- Olívio: 1
+Marcos -- Sonserina: 1
+Alícia -- Johnson: 1
+Johnson -- Sonserina: 1
+Johnson -- Olívio: 1
+Alícia -- Sonserina: 1
+Alícia -- Olívio: 1
+Olívio -- Sonserina: 1
+Johnson -- Jorge: 1
+Adriano -- Johnson: 1
+Bletchley -- Johnson: 1
+Fred -- Johnson: 1
+Adriano -- Jorge: 1
+Bletchley -- Jorge: 1
+Adriano -- Bletchley: 1
+Adriano -- Fred: 1
+Bletchley -- Fred: 1
+Bell -- Weasley: 1
+Pucey -- Weasley: 1
+Bell -- Pucey: 1
+Dino -- Hagrid: 1
+Bell -- Spinnet: 1
+Descobri -- Hagrid: 1
+Seja -- Snape: 1
+Hagrid -- Seja: 1
+Hermione -- Nicolau: 1
+Flamel -- Snape: 1
+Flamel -- Hagrid: 1
+Flamel -- Hermione: 1
+Flamel -- Madame: 1
+Hermione -- Madame: 1
+Tia -- Tio: 1
+J. -- Jorge: 1
+Fred -- J.: 1
+Forge -- Jred: 1
+Jorge -- Percy: 1
+Fred -- Percy: 1
+Madame -- Snape: 1
+Dumbledore -- Sim: 1
+Prof -- Senhor: 1
+Olívio -- Weasley: 1
+Falando -- Snape: 1
+Finja -- Hermione: 1
+Perenelle -- Sr.: 1
+Dumbledore -- Gringotes: 1
+Aposto -- Gringotes: 1
+Aposto -- Dumbledore: 1
+Hermione -- Mal: 1
+Mal -- Rony: 1
+Harry -- Mal: 1
+Hermione -- Locomotor: 1
+Lufa-Lufa -- Snape: 1
+Crabbe -- Dracos: 1
+Draco -- Dracos: 1
+Dracos -- Goyle: 1
+Dracos -- Malfoy: 1
+Dracos -- Rony: 1
+Draco -- Malfoy: 1
+Potter -- Weasley: 1
+Crabbe -- Snape: 1
+Goyle -- Snape: 1
+Crabbe -- Hermione: 1
+Goyle -- Hermione: 1
+Crabbe -- Neville: 1
+Hagrid -- Severo: 1
+Draco -- Madame: 1
+Goyle -- Madame: 1
+Imagino -- Snape: 1
+Imagino -- Quirrell: 1
+Quirrell -- Rony: 1
+Edwiges -- Hagrid: 1
+Hagrid -- Herbologia: 1
+Decidi -- Hagrid: 1
+Dumbledore -- Malfoy: 1
+Madame -- Malfoy: 1
+Carlinhos -- Malfoy: 1
+Hagrid -- Norberto: 1
+Malfoy -- Minerva: 1
+Minerva -- Neville: 1
+Acho -- Profa: 1
+Encarou -- Hagrid: 1
+Canino -- Draco: 1
+Hagrid -- Harry: 1
+Cautela -- Hagrid: 1
+Agouro -- Hagrid: 1
+Hagrid -- Olá: 1
+Agouro -- Olá: 1
+Acabavam -- Hagrid: 1
+Acabavam -- Hermione: 1
+Agouro -- Tomei: 1
+Firenze -- Hagrid: 1
+Firenze -- Voldemort: 1
+Fofo -- Snape: 1
+Dumbledore -- Neville: 1
+Fofo -- Hagrid: 1
+Fofo -- Voldemort: 1
+Agouro -- Firenze: 1
+Dumbledore -- Potter: 1
+Rony -- Weasley: 1
+Mulher -- Snape: 1
+Lino -- Rony: 1
+Neville -- Trevo: 1
+Barão -- Espero: 1
+Fofo -- Hermione: 1
+Certo -- Edwiges: 1
+Certo -- Dumbledore: 1
+Severo -- Snape: 1
+Quirrell -- Sei: 1
+Quirrell -- Vem: 1
+Quirrell -- Saia: 1
+Mestre -- Quirrell: 1
+Mestre -- Voldemort: 1
+Aquilo -- Quirrell: 1
+Sr. -- Srta: 1
+Nicolau -- Perenelle: 1
+Dumbledore -- Professor: 1
+Hermione -- Voldemort: 1
+Hermione -- Quirrell: 1
+Dumbledore -- Fiz: 1
+Herbologia -- Neville: 1
+Fred -- Hagrid: 1
+Gina -- Rony: 1
