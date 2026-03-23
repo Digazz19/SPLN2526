@@ -128,7 +128,6 @@ def collect_all():
             results[source["label"]] = {
                 "file": source["filename"],
                 "chars": len(text),
-                "preview": text[:300],
             }
             print(f"Guardado em '{source['filename']}' ({len(text):,} caracteres)")
         except Exception as e:
@@ -144,11 +143,10 @@ def collect_all():
             results[source["label"]] = {
                 "file": source["filename"],
                 "chars": len(text),
-                "preview": text[:300],
             }
-            print(f"  ✓ Guardado em '{source['filename']}' ({len(text):,} caracteres)")
+            print(f"Guardado em '{source['filename']}' ({len(text):,} caracteres)")
         except Exception as e:
-            print(f"  ✗ Erro: {e}")
+            print(f"Erro: {e}")
 
     print("\n" + "═" * 60)
     print("RESUMO DA RECOLHA")
@@ -157,7 +155,6 @@ def collect_all():
         print(f"\n{label}")
         print(f"  Ficheiro : {info['file']}")
         print(f"  Tamanho  : {info['chars']:,} caracteres")
-        print(f"  Prévia   : {info['preview'][:200]}...")
 
     return results
 
