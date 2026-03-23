@@ -1,0 +1,801 @@
+ENTIDADES NOMEADAS POR FONTE
+
+============================================================
+História do Futebol na Inglaterra
+============================================================
+
+  [Local]
+    - Alemanha Ocidental
+    - Arsenal
+    - Ashington
+    - Barcelona
+    - Best
+    - Birmingham City
+    - Blackpool
+    - Bosques de Boulogne
+    - Brasil
+    - Brittany
+    - Budapeste
+    - Busby
+    - Cambridge
+    - Cawston
+    - Chelsea
+    - City
+    - Colégio Eton
+    - Conferência
+    - EUA
+    - East Anglia
+    - Escócia
+    - Esforços
+    - Europa
+    - Forest
+    - França
+    - Grã-Bretanha
+    - Hamburg
+    - Highbury
+    - Hillborough
+    - Hungria
+    - Ilhas Britânicas
+    - Ilhas não-Britânicas
+    - Inglaterra
+    - Lancashire
+    - Law
+    - Leeds
+    - Leicester City
+    - Liverpool
+    - Londres
+    - Manchester
+    - Manchester City
+    - Marseille
+    - Midland
+    - Midlands
+    - Munique
+    - Nat Lofthouse
+    - Norte
+    - Nottinghmshire
+    - Oxford Street
+    - Plumstead
+    - Portugal
+    - Preston
+    - Reino Unido
+    - Rio Ferdinand
+    - Roterdã
+    - Sheffield
+    - Shrovetide
+    - Southampton
+    - Sul
+    - Sunderland
+    - Terceira Divisão do Norte
+    - Terceira Divisão do Sul
+    - Tottenham
+    - Tottenham Hotspur
+    - Ulgham
+    - United
+    - West Bromwich Albion
+    - West Ham
+    - West Ham United
+    - Wimbledon
+    - Wolves
+    - Woolwich Arsenal
+    - cidade de Londres
+    - do Sul
+    - estádio Heysel
+    - estádio de Wembley
+
+  [Miscelânea]
+    - Anfield
+    - Campeonato Inglês
+    - Campeonato da Liga de Futebol
+    - Cavalos Brancos
+    - Conferência de Futebol
+    - Conferência do ano seguinte
+    - Copa
+    - Copa Europa
+    - Copa Europeia
+    - Copa FA
+    - Copa FA - Associação de Futebol
+    - Copa FA de 1948
+    - Copa FA de 1964
+    - Copa FA: Sunderland
+    - Copa Fairs
+    - Copa da Europa
+    - Copa da Liga
+    - Copa da UEFA
+    - Copa de 1946
+    - Copa de eliminação
+    - Copa do Mundo
+    - Copa do Mundo de 1942
+    - Copa do Mundo de 1962
+    - Copa do Mundo de 1966
+    - Copa do Mundo de 1974
+    - Copa do Mundo de 2002
+    - Copa do Mundo de 2006
+    - Copa dos Campeões
+    - Copa dos Campeões da Europa
+    - Copa dos Campões da Europa
+    - Copas
+    - Copas Europeias
+    - Copas FA
+    - Copas do Mundo
+    - Davey Mackay
+    - Deus nos livre: comandamos e proibimos
+    - Divisão 1
+    - Engenheiros
+    - Euro 2004
+    - FA Cup
+    - Grande Guerra
+    - ITV Digital
+    - Jogos Olímpicos
+    - Leicester City
+    - Liga dos Campeões da UEFA
+    - Matthews
+    - Nicholas de Farndone
+    - Normandy
+    - Premier League
+    - Primeira
+    - Primeira Guerra
+    - Primeira Guerra Mundial
+    - Recopa Europeia
+    - Segunda Guerra Mundial
+    - Segunda Guerras
+    - Sheffield F.C
+    - Stoke City
+    - Swansea City
+    - Taça dos Campeões
+    - The Wednesday
+    - Wanderers
+    - Welsh
+    - copa FA
+    - copa FA de 1935
+    - hat trick de uma Copa do Mundo
+    - série A
+    - “
+    - “ holiganismo
+
+  [Organização]
+    - AFC Bournemouth
+    - Arsenal
+    - Associação Escocesa
+    - Associação de Futebol
+    - Associação de Futebol dos Engenheiros
+    - Associação de regras do futebol
+    - Aston Villa
+    - Atlético de Madrid
+    - BT Sport
+    - Barcelona
+    - Bayern de Munique
+    - Benfica
+    - Blackburn Rovers
+    - Blackpool
+    - Bolton
+    - Bolton Wanderers
+    - Cardiff City
+    - Charlton Athletic
+    - Chelsea
+    - Crystal Palace
+    - Derby County
+    - Divisão
+    - Everton
+    - Exército Britânico
+    - FA
+    - FIFA
+    - Guardian
+    - Huddersfield
+    - Huddersfield Town
+    - Inter de Milão
+    - Juventus
+    - Leeds United
+    - Liga
+    - Liga de Futebol
+    - Ligas
+    - Manchester
+    - Manchester City
+    - Manchester United
+    - Newcastle
+    - Newcastle United
+    - Norwich City
+    - Nottingham Forest
+    - Old Trattfor
+    - Portmouth
+    - Portsmouth
+    - Preston North End
+    - Queens Park
+    - Sheffield United
+    - Sky
+    - Spurs
+    - Stoke City
+    - UEFA
+    - United
+    - West Ham United
+    - Wolverhampton Wanderers
+    - “
+
+  [Pessoa]
+    - Abramovich
+    - Accrington
+    - Alan Hansen
+    - Alan Shearer
+    - Alan Sherear
+    - Alex Ferguson
+    - Alex James
+    - Alf Ramsey
+    - Andy Gray
+    - Arsenal
+    - Arsène Wenger
+    - Aston Villa
+    - Bert Trautmann
+    - Bert Williams
+    - Bethnal Green
+    - Bill Nicholson
+    - Bill Shankly
+    - Billy Bonds
+    - Billy Wright
+    - Blackburn
+    - Blackburn Rovers
+    - Bob Paisley
+    - Bobby Charlton
+    - Bobby Gould
+    - Bobby Moore
+    - Bobby Robson
+    - Bradford City
+    - Brian Clough
+    - Brian Little
+    - Bryan Robson
+    - Burnley
+    - Bury
+    - C.W. Alcock
+    - Carlo Ancelotti
+    - Chris Sutton
+    - Chris Waddie
+    - Clapton Orient
+    - Claudio Ranieri
+    - Cliff Bastin
+    - Cláudio Ranieri
+    - Colin Hendry
+    - Craig Johnson
+    - Dalglish
+    - Danny Branchflower
+    - Darwen
+    - Dave Basset
+    - David Beckham
+    - David Moyes
+    - David Platt
+    - David Seaman
+    - Denis Compton
+    - Denis Irwin
+    - Denis Law
+    - Dennis Bergkamp
+    - Dennis Viollet
+    - Derby
+    - Derby County
+    - Dimitar Berbatov
+    - Dixie Dean
+    - Don Revie
+    - Duncan Edwards
+    - Eddie Hapgod
+    - Edwards
+    - Emlyn Hughes
+    - Eric Cantona
+    - Eriksson
+    - Eusébio
+    - Fabio Capello
+    - Francis Lee
+    - Francis Willughby
+    - Frank Clark
+    - Frank Lampard
+    - Fulham
+    - Gary
+    - Gary Bailey
+    - Gary Lineker
+    - Gary Neville
+    - Gary Pallister
+    - Geoff
+    - Geoff Hurst
+    - George Best
+    - George Graham
+    - Gianfranco Zola
+    - Gianluca Vialli
+    - Gordon Banks
+    - Gordon Strachan
+    - Graeme Souness
+    - Gérald Houllier
+    - Harry Catterick
+    - Harry Degg
+    - Harry Redknapp
+    - Herbert Chapman
+    - Hooligans
+    - Howard Kendall
+    - Howards Wilkinson
+    - Hughes
+    - Hurling
+    - Ian Rush
+    - Ilustres
+    - Jack Rowley
+    - James Howell
+    - James I da Inglaterra
+    - James Mills
+    - Jeff Astle
+    - Jim Smith
+    - Jimmy Adamson
+    - Jimmy Greaves
+    - Joe Cole
+    - Joe Hulme
+    - Joe Mercer
+    - Joe Royle
+    - Jogadores
+    - John Alexander Brodie
+    - John Barnes
+    - John Day
+    - John Lyall
+    - John Norden
+    - Johnny Carey
+    - José Mourinho
+    - Jurge Klinsmann
+    - Kenny Dalglish
+    - Kevin Keegan
+    - Lancashire
+    - Lee Sharpe
+    - Leicester City
+    - Lineker
+    - London Road
+    - Lorde Sunderland
+    - Louis van Gaal
+    - Manuel Pellegrini
+    - Mark Hughes
+    - Martin
+    - Martin Peters
+    - Matt Busby
+    - Matt Le Tissier
+    - Maurice Evans
+    - McClaren
+    - Michael Owen
+    - Mike Walker
+    - Mulcaster
+    - Munique
+    - Neville Southall
+    - Noel Cantwell
+    - Norman
+    - Norman Deeley
+    - Nottingham Forest
+    - Notts County
+    - Oldham
+    - Oldham Athletic
+    - Patrick Vieira
+    - Paul Gascoigne
+    - Paul Ince
+    - Paul Merson
+    - Paul Scholes
+    - Peter Beardsley
+    - Peter McParland
+    - Peter Neardsley
+    - Peter Schmeichel
+    - Peter Shilton
+    - Peter Sillet
+    - Philip Neville
+    - Problemas
+    - Rafael Benítez
+    - Ray Clemence
+    - Ray Wilkins
+    - Redknapp
+    - Rei Eduardo III
+    - Richard Carew
+    - Richard Mulcaster
+    - Robbie Fowler
+    - Robert Mancini
+    - Roberto Mancini
+    - Robinho
+    - Roger Hunt
+    - Roman Abramovich
+    - Ron Greenwood
+    - Roy Hodgson
+    - Roy Keane
+    - Ruud Gullit
+    - Ryan Giggs
+    - Samuel Pepys
+    - Shankly
+    - Sheffield Wednesday
+    - Sir Alex
+    - Sir Alex Ferguson
+    - Sol Campbell
+    - Stan Cullis
+    - Stan Mortensen
+    - Stan Pearson
+    - Stan Seymour
+    - Stanley Matthews
+    - Steve Bruce
+    - Steve McClaren
+    - Steve Nicol
+    - Steve bruce
+    - Steven Gerrard
+    - Stoke
+    - Sunderland
+    - Sven-Göran Eriksson
+    - Swindon Town
+    - Taylor
+    - Ted Drake
+    - Thierry Henry
+    - Tom Finney
+    - Tom Whittaker
+    - Tommy Taylor
+    - Tony Adams
+    - Tottenham Hotspur
+    - Vendendo
+    - Watford
+    - Wayne Rooney
+    - West Bromwich Albion
+    - William McGregor
+    - Willoughby
+    - Woolwich Arsenal
+
+============================================================
+Primeira Liga
+============================================================
+
+  [Local]
+    - Académico
+    - Apito Final
+    - Benfica
+    - COVID-19
+    - Coimbra
+    - Espanha
+    - Europa
+    - Lisboa
+    - Madeira
+    - Madrid
+    - Porto
+    - Portugal
+    - Relatório de Atividades
+    - SL
+    - Setúbal
+    - Três Grandes
+    - em Portugal
+
+  [Miscelânea]
+    - AF Aveiro
+    - AF Évora
+    - Campeonato
+    - Campeonato Nacional da Primeira Divisão
+    - Campeonato Regional da AF Porto
+    - Campeonato Regional do Porto
+    - Campeonato da Liga da Primeira Divisão
+    - Campeonato da Primeira Divisão
+    - Campeonato de Portugal
+    - Campeonatos
+    - Campeonatos Nacionais
+    - Campeonatos das Ligas
+    - Estatuto e Regulamentos da Federação
+    - FPF
+    - II Divisão
+    - Leixões
+    - Leixões SC
+    - Liga Portugal
+    - Liga dos Campeões
+    - Mundial de 1934
+    - Os Três Grandes
+    - Primeira Divisão
+    - Primeira Liga
+    - Segunda Divisão
+    - Segunda Liga
+    - Taça da Liga
+    - Taça de Portugal
+
+  [Organização]
+    - AF Braga
+    - AF Porto
+    - AF Setúbal
+    - Académico Futebol Clube
+    - Belenenses
+    - Benfica
+    - Boavista
+    - Boavista Futebol Clube
+    - Clube de Futebol
+    - FC
+    - FC Porto
+    - Federação Portuguesa de Futebol
+    - Futebol Clube do Porto
+    - III Divisão
+    - Liga
+    - Liga Conferência
+    - Liga Europa
+    - Liga Experimental
+    - Liga Portugal
+    - Liga Portugal Betclic
+    - Liga Portuguesa
+    - Liga Portuguesa de Futebol Profissional
+    - Os Sports
+    - Seleção Nacional
+    - Sporting
+    - Sporting Clube de Portugal
+    - UEFA
+
+  [Pessoa]
+    - AF Algarve
+    - Acho
+    - Cândido de Oliveira
+    - Junho
+    - Manuel Soeiro
+    - Plácido de Souza
+    - Ribeiro dos Reis
+    - Ricardo Ornelas
+    - Virgílio da Fonseca
+
+============================================================
+Revista Militar – Geopolítica e Futebol
+============================================================
+
+  [Local]
+    - Ache
+    - Africanos
+    - Alemanha
+    - Algarve
+    - Americana
+    - América do Norte
+    - América do Sul
+    - Anexo A.
+    - Anexo A. Já
+    - Argentina
+    - Asiático
+    - Attali
+    - Austrália
+    - Balcãs
+    - Barcelona
+    - Belgrado
+    - Belém
+    - Brasil
+    - Brasileiro
+    - Britânica
+    - Buenos Aires
+    - Bélgica
+    - Bósnia
+    - Camarões
+    - Catalunha
+    - Central
+    - Chile
+    - China
+    - Coimbra
+    - Começam
+    - Coreia
+    - Coreia do Norte
+    - Coreia do Sul
+    - Croata
+    - Croácia
+    - Dinamarca
+    - EUA
+    - El Salvador
+    - Em Portugal
+    - Equipa de Todos Nós
+    - Escócia
+    - Espanha
+    - Estado
+    - Estado-Nação
+    - Estados
+    - Estados-Unidos
+    - Estádio do Bessa
+    - Estádio do Dragão
+    - Estádio do Partido Fascista
+    - Euro-Atlântica
+    - Europa
+    - Fafe
+    - Faro
+    - Formosa
+    - França
+    - Guimarães
+    - Hadjuk
+    - Holanda
+    - Hollywood
+    - Honduras
+    - Hungria
+    - Ilhas Faroe
+    - Indonésia
+    - Inglaterra
+    - Inglesa
+    - Irlanda
+    - Israel
+    - Itália
+    - Japão
+    - Julho
+    - Lituânia
+    - Liverpool
+    - Líbano
+    - MERCOSUL16
+    - Malásia
+    - Marcunis
+    - Marselha
+    - Montenegro
+    - Montevideu
+    - Mourinho
+    - Nápoles
+    - Pacífico
+    - Palestina
+    - País Basco
+    - País de Gales
+    - Portela
+    - Porto
+    - Portugal
+    - Portuguesa
+    - Produto Interno Bruto
+    - Reino Unido
+    - Rio de Janeiro
+    - Roma
+    - Roménia
+    - Rússia
+    - Senegal
+    - Silicon Valley
+    - Singapura
+    - Sociedades Anónimas Desportivas
+    - Split
+    - Suiça
+    - Suécia
+    - São Paulo
+    - Sérvia
+    - Sérvia e Montenegro
+    - Ucrânia
+    - Uruguai
+    - Vietname
+    - Zurique
+    - em Portugal
+    - África
+    - África do Sul
+    - Ásia
+    - Áustria
+
+  [Miscelânea]
+    - A Globalização
+    - Apêndice 1
+    - Apêndice 2):
+    - Campeonato Europeu
+    - Campeonato Mundo de 2010
+    - Campeonato da Europa
+    - Campeonato do Mundo
+    - Campeonato do Mundo de 1970
+    - Campeonato do Mundo de 1982
+    - Campeonato do Mundo de 1998
+    - Campeonato do Mundo de 2002
+    - Campeonato do Mundo de Futebol
+    - Campeonatos Mundiais de Futebol
+    - Campeonatos do Mundo de Futebol
+    - Campeonatos do Mundo de futebol
+    - Chefe de Governo
+    - EURO
+    - EURO 2004
+    - EURO2004
+    - Estados
+    - Eurásia
+    - FA Cup Inglesa
+    - FIFA
+    - Francos
+    - Franquismo
+    - II guerra mundial
+    - Inglês
+    - Jogos Olímpicos
+    - Jogos Olímpicos de Estocolmo
+    - Jogos Olímpicos de Londres
+    - Le Havre
+    - Liga dos Campeões
+    - Mundial
+    - Mundial de
+1994
+    - Mundial de 1994
+    - Mundial de 1998
+    - Mundial de 2002
+    - Mundial de 2006
+    - Mundial de 2006 naquele país
+    - Mundial de juniores de Portugal
+    - Mundial do Uruguai
+    - OFC
+    - Oriente
+    - Português o Benfica
+    - Remodelação
+    - Steaua de Bucareste
+    - Suíços
+    - Taça Africana das Nações
+    - Taça UEFA
+    - Taça das Feiras
+    - Taça dos Campeões
+    - Taça dos Campeões Europeus de 1986
+    - Taça dos Clubes Campeões Europeus
+    - Wall Street
+    - XII
+    - guerra fria
+    - muro de Berlim
+    - primeira guerra mundial
+    - reunificação da Coreia
+    - segunda guerra mundial
+    - “
+    - “Guerra-Fria
+    - “Matar
+    - “Reds Cafés
+    - “astros
+    - “descoberta”
+    - “famoso”18 Argentina-Perú
+    - “guerra
+    - “nosso
+    - “substituição
+    - ”
+
+  [Organização]
+    - 25 de Abril de 1974
+    - AC Milan
+    - AFC
+    - América Latina
+    - Atlético de Bilbao
+    - Atlético de Bilbau
+    - Audi
+    - Barcelona
+    - Benfica
+    - Bloco de Leste
+    - CAF
+    - CNN
+    - CONCACAF
+    - CSF
+    - Chelsea de Abramovic
+    - Chelsea de Inglaterra
+    - Cheng-Ti
+    - Confederação Brasileira de Futebol
+    - Dínamo de Zagreb
+    - Estado Novo de Salazar
+    - Estrela Vermelha de Belgrado
+    - Europeia
+    - Europeu
+    - Eurásia
+    - FIFA
+    - FIFA “
+    - General Franco
+    - Geopolítica
+    - Jugoslávia
+    - KirchSport Group
+    - Liga Inglesa
+    - Manchester United
+    - NBA
+    - Nike
+    - ONU
+    - OTAN
+    - Pacto de Varsóvia
+    - Partizan
+    - Real Madrid
+    - Siemens
+    - Sporting
+    - UEFA
+    - URSS
+    - União Europeia
+    - Via de Cintura Interna
+    - ex-URSS
+    - identidade europeia de Portugal
+    - “
+    - “Major League Soccer
+
+  [Pessoa]
+    - Beckman
+    - Berlusconi
+    - Circulação
+    - Diego
+    - Europeias
+    - Europeu
+    - Forza Itália
+    - Franz Beckenbauer
+    - Geopolítica
+    - Humano
+    - Jacques Attali
+    - Jacques Chirac
+    - Jorge Videla
+    - José Mourinho
+    - João Havelange
+    - Jules Rimet
+    - Junho
+    - Lei Bosman
+    - Luís Figo
+    - Maradona
+    - Michel Platini
+    - Mussolini
+    - Nicholas Spykman
+    - Nicolau Ceausescu
+    - Norte-Americano
+    - Olímpico
+    - Romano Prodi
+    - Ronaldo
+    - Scolari
+    - Silvio Berlusconi
+    - Spykman
+    - Veremos
+    - Zidane
+    - Zinedine Zidane da Juventus
