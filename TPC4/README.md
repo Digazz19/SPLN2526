@@ -20,6 +20,7 @@ Projeto de Processamento de Linguagem Natural que analisa as relações semânti
 │   ├── heatmap_personagens.png  # Heatmap de similaridade entre personagens
 │   ├── tsne_top50.png           # t-SNE das 50 palavras mais frequentes
 │   └── most_similar_harry.png   # Top 8 palavras mais similares a 'harry'
+|   └── 3dview.png   # Visualização Interativa 3D
 ├── Project_models/
 │   ├── tensors.tsv              # Vetores para o TensorBoard Projector
 │   └── metadata.tsv             # Metadados (palavras) para o TensorBoard Projector
