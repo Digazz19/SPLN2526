@@ -1,0 +1,31 @@
+# --- Modelos treinados (pesados, regeneráveis) ---
+output/
+my_model/
+
+# --- Ficheiros gerados por scripts ---
+datasets/*.spacy
+configs/
+
+# --- Ambiente virtual ---
+venv/
+.venv/
+env/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- Caches de bibliotecas ---
+.cache/
+~/.cache/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
