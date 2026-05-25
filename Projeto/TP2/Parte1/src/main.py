@@ -49,7 +49,7 @@ class FootballQAPipeline:
         top_k: int = DEFAULT_TOP_K,
     ):
         print("\n" + "=" * 65)
-        print("Football QA Pipeline")
+        print("   Football QA Pipeline")
         print("=" * 65)
 
         self.retriever_mode = retriever_mode
@@ -64,7 +64,7 @@ class FootballQAPipeline:
         print("\n[3/3] A inicializar QA Abstractivo (Flan-T5)...")
         self.abstractive = AbstractiveQA()
 
-        print("\nPipeline pronta!\n")
+        print("\n Pipeline pronta!\n")
 
     def run(self, query: str) -> dict:
         """
@@ -79,11 +79,11 @@ class FootballQAPipeline:
             - abstractive   : str         — resposta abstractiva (multi-doc)
         """
         print("\n" + "─" * 65)
-        print(f"Query: {query}")
+        print(f" Query: {query}")
         print("─" * 65)
 
         # ── 1. Retrieval ──────────────────────────────────────────────
-        print(f"\nRetrieval ({self.retriever_mode}, top-{self.top_k})...")
+        print(f"\n Retrieval ({self.retriever_mode}, top-{self.top_k})...")
         results = self.retriever.search(
             query,
             mode=self.retriever_mode,
@@ -96,7 +96,7 @@ class FootballQAPipeline:
         documents = [doc for doc, _ in results]
 
         # ── 2. QA Extrativo — usa o documento mais relevante ──────────
-        print("\nQA Extrativo (BERT)...")
+        print("\n QA Extrativo (BERT)...")
         best_doc     = documents[0]
         ext_results  = self.extractive.predict(query, best_doc["text"], top_k=1)
 
@@ -108,13 +108,14 @@ class FootballQAPipeline:
             print(f"   Score   : {ext_score:.2f}")
         else:
             ext_answer = "Não foi possível encontrar uma resposta."
-            print(f"Sem resposta encontrada.")
+            print(f"   ⚠️  Sem resposta encontrada.")
 
-        # ── 3. QA Abstractivo — usa o documento mais relevante ──────
+        # -- 3. QA Abstractivo -- usa o inicio do documento mais relevante
         print("\nQA Abstractivo (Flan-T5)...")
         abs_answer = self.abstractive.predict(query, best_doc["text"])
         print(f"   Fonte   : {best_doc['title']}")
         print(f"   Resposta: {abs_answer}")
+        print(f"   Resposta : {abs_answer}")
 
         # ── Resumo final ──────────────────────────────────────────────
         print("\n" + "┄" * 65)
@@ -135,7 +136,7 @@ class FootballQAPipeline:
 # ---------------------------------------------------------------------------
 
 def interactive_mode(pipeline: FootballQAPipeline) -> None:
-    print("\nModo interativo — escreve 'sair' para terminar.")
+    print("\n Modo interativo — escreve 'sair' para terminar.")
     print("   Exemplos de queries:")
     print("   - Who won the 2022 FIFA World Cup?")
     print("   - What is the capacity of Camp Nou?")
@@ -146,13 +147,13 @@ def interactive_mode(pipeline: FootballQAPipeline) -> None:
         try:
             query = input("🔎 Query: ").strip()
         except (EOFError, KeyboardInterrupt):
-            print("\nA terminar.")
+            print("\n A terminar.")
             break
 
         if not query:
             continue
         if query.lower() in ("sair", "exit", "quit"):
-            print("A terminar.")
+            print(" A terminar.")
             break
 
         pipeline.run(query)
@@ -172,7 +173,7 @@ DEMO_QUERIES = [
 
 
 def demo_mode(pipeline: FootballQAPipeline) -> None:
-    print("\nModo demo — a correr queries predefinidas...\n")
+    print("\n Modo demo — a correr queries predefinidas...\n")
     for query in DEMO_QUERIES:
         pipeline.run(query)
 

@@ -73,7 +73,7 @@ class Retriever:
 
         self._build_tfidf_index()
         self._build_sbert_index(sbert_model)
-        print("✅ Retriever pronto.\n")
+        print(" Retriever pronto.\n")
 
     # ── TF-IDF index ──────────────────────────────────────────────────────────
 

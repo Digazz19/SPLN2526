@@ -21,7 +21,6 @@ import json
 import string
 import re
 from collections import Counter
-from rouge_score import rouge_scorer
 
 from qa_extractive  import ExtractiveQA
 from qa_abstractive import AbstractiveQA
@@ -183,18 +182,7 @@ def f1_score(prediction: str, ground_truth: str) -> float:
     return f1
 
 
-# ---------------------------------------------------------------------------
-# Métricas ROUGE para QA abstractivo
-# ---------------------------------------------------------------------------
 
-def rouge_scores(prediction: str, ground_truth: str) -> dict:
-    scorer = rouge_scorer.RougeScorer(["rouge1", "rouge2", "rougeL"], use_stemmer=True)
-    scores = scorer.score(ground_truth, prediction)
-    return {
-        "rouge1": scores["rouge1"].fmeasure,
-        "rouge2": scores["rouge2"].fmeasure,
-        "rougeL": scores["rougeL"].fmeasure,
-    }
 
 
 # ---------------------------------------------------------------------------
@@ -212,20 +200,18 @@ def load_corpus(path: str = "corpus.json") -> dict:
 # ---------------------------------------------------------------------------
 
 def evaluate():
-    print("A carregar corpus e modelos...")
+    print(" A carregar corpus e modelos...")
     corpus      = load_corpus()
     extractive  = ExtractiveQA()
     abstractive = AbstractiveQA()
 
     ext_em_scores  = []
     ext_f1_scores  = []
-    abs_rouge1     = []
-    abs_rouge2     = []
-    abs_rougeL     = []
+    abs_f1_scores  = []
 
     results = []
 
-    print(f"\nA avaliar {len(EVAL_SET)} exemplos...\n")
+    print(f"\n A avaliar {len(EVAL_SET)} exemplos...\n")
     print("─" * 80)
 
     for i, example in enumerate(EVAL_SET, 1):
@@ -235,7 +221,7 @@ def evaluate():
 
         # Obtém o contexto do corpus
         if doc_title not in corpus:
-            print(f"  [{i:02d}] Documento '{doc_title}' não encontrado no corpus.")
+            print(f"  [{i:02d}] AVISO: Documento '{doc_title}' não encontrado no corpus.")
             continue
 
         context = corpus[doc_title]
@@ -251,61 +237,53 @@ def evaluate():
 
         # ── QA Abstractivo ──
         abs_answer = abstractive.predict(question, context)
-        rouge = rouge_scores(abs_answer, expected)
-        abs_rouge1.append(rouge["rouge1"])
-        abs_rouge2.append(rouge["rouge2"])
-        abs_rougeL.append(rouge["rougeL"])
+        abs_f1 = f1_score(abs_answer, expected)
+        abs_f1_scores.append(abs_f1)
 
         results.append({
             "question":    question,
             "expected":    expected,
             "extractive":  ext_answer,
             "abstractive": abs_answer,
-            "em":          em,
-            "f1":          round(f1, 3),
-            "rouge1":      round(rouge["rouge1"], 3),
-            "rougeL":      round(rouge["rougeL"], 3),
+            "ext_em":      em,
+            "ext_f1":      round(f1, 3),
+            "abs_f1":      round(abs_f1, 3),
         })
 
         # Print por linha
-        em_icon = "✅" if em else "❌"
+        em_icon   = "[OK]" if em else "[X]"
+        abs_icon  = "[OK]" if abs_f1 >= 0.5 else "[X]"
         print(f"  [{i:02d}] {question}")
         print(f"        Expected   : {expected}")
         print(f"        Extrativo  : {ext_answer}  {em_icon}  EM={em}  F1={f1:.2f}")
-        print(f"        Abstractivo: {abs_answer}  ROUGE-1={rouge['rouge1']:.2f}  ROUGE-L={rouge['rougeL']:.2f}")
+        print(f"        Abstractivo: {abs_answer}  {abs_icon}  F1={abs_f1:.2f}")
         print()
 
     # ── Resultados globais ──
     n = len(results)
-    avg_em    = sum(ext_em_scores)  / n * 100
-    avg_f1    = sum(ext_f1_scores)  / n * 100
-    avg_r1    = sum(abs_rouge1)     / n * 100
-    avg_r2    = sum(abs_rouge2)     / n * 100
-    avg_rL    = sum(abs_rougeL)     / n * 100
+    avg_ext_em  = sum(ext_em_scores) / n * 100
+    avg_ext_f1  = sum(ext_f1_scores) / n * 100
+    avg_abs_f1  = sum(abs_f1_scores) / n * 100
 
     print("=" * 80)
     print(f"  RESULTADOS GLOBAIS ({n} exemplos)")
     print("=" * 80)
     print(f"\n  QA Extrativo (BERT fine-tuned no SQuAD v1.1):")
-    print(f"    Exact Match : {avg_em:.1f}%")
-    print(f"    F1 Score    : {avg_f1:.1f}%")
+    print(f"    Exact Match : {avg_ext_em:.1f}%")
+    print(f"    F1 Score    : {avg_ext_f1:.1f}%")
     print(f"\n  QA Abstractivo (Flan-T5-large):")
-    print(f"    ROUGE-1     : {avg_r1:.1f}%")
-    print(f"    ROUGE-2     : {avg_r2:.1f}%")
-    print(f"    ROUGE-L     : {avg_rL:.1f}%")
+    print(f"    F1 Score    : {avg_abs_f1:.1f}%")
     print()
 
-    # Guarda resultados em JSON para o relatório
+    # Guarda resultados em JSON para o relatorio
     output = {
         "n_examples": n,
         "extractive": {
-            "exact_match": round(avg_em, 1),
-            "f1":          round(avg_f1, 1),
+            "exact_match": round(avg_ext_em, 1),
+            "f1":          round(avg_ext_f1, 1),
         },
         "abstractive": {
-            "rouge1": round(avg_r1, 1),
-            "rouge2": round(avg_r2, 1),
-            "rougeL": round(avg_rL, 1),
+            "f1": round(avg_abs_f1, 1),
         },
         "examples": results,
     }
@@ -313,7 +291,7 @@ def evaluate():
     with open("evaluation_results.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("💾 Resultados guardados em 'evaluation_results.json'")
+    print("Resultados guardados em 'evaluation_results.json'")
     return output
 
 
