@@ -1,0 +1,214 @@
+{
+  "n_examples": 20,
+  "extractive": {
+    "exact_match": 40.0,
+    "f1": 46.0
+  },
+  "abstractive": {
+    "rouge1": 69.6,
+    "rouge2": 28.7,
+    "rougeL": 69.6
+  },
+  "examples": [
+    {
+      "question": "Where was Cristiano Ronaldo born?",
+      "expected": "Funchal, Madeira",
+      "extractive": "Funchal, Madeira",
+      "abstractive": "Funchal, Madeira",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What nationality is Lionel Messi?",
+      "expected": "Argentine",
+      "extractive": "Argentines",
+      "abstractive": "Argentine",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "When was Pelé born?",
+      "expected": "23 October 1940",
+      "extractive": "23 October 1940",
+      "abstractive": "23 October 1940",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What position does Mohamed Salah play?",
+      "expected": "forward",
+      "extractive": "left-back",
+      "abstractive": "right winger",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "question": "What year was Ronaldinho born?",
+      "expected": "1980",
+      "extractive": "1949",
+      "abstractive": "1980",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What club did Zinedine Zidane play for in France?",
+      "expected": "Girondins de Bordeaux",
+      "extractive": "Juve",
+      "abstractive": "Bordeaux",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 0.5,
+      "rougeL": 0.5
+    },
+    {
+      "question": "How tall is Erling Haaland?",
+      "expected": "194 cm",
+      "extractive": "-",
+      "abstractive": "6 ft 2 in",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "question": "What is David Beckham's nationality?",
+      "expected": "English",
+      "extractive": "Portugal",
+      "abstractive": "English",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "When was FC Barcelona founded?",
+      "expected": "1899",
+      "extractive": "1899",
+      "abstractive": "Founded in 1899",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 0.5,
+      "rougeL": 0.5
+    },
+    {
+      "question": "What city is Bayern Munich from?",
+      "expected": "Munich",
+      "extractive": "Cologne",
+      "abstractive": "Munich",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What league does Sporting CP play in?",
+      "expected": "Primeira Liga",
+      "extractive": "Liga Portugal 2",
+      "abstractive": "Founded on 1 July 1906, Sporting is one of the \"Big Three\" clubs in Portugal that have never been relegated from Primeira Liga, along with rivals Benfica and Porto",
+      "em": 0,
+      "f1": 0.4,
+      "rouge1": 0.129,
+      "rougeL": 0.129
+    },
+    {
+      "question": "What is the nickname of Borussia Dortmund?",
+      "expected": "BVB",
+      "extractive": "Ballspiel-Verein Borussia",
+      "abstractive": "Die Schwarzgelben",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "question": "How often is the FIFA World Cup held?",
+      "expected": "four years",
+      "extractive": "every four years",
+      "abstractive": "every four years",
+      "em": 0,
+      "f1": 0.8,
+      "rouge1": 0.8,
+      "rougeL": 0.8
+    },
+    {
+      "question": "When was the UEFA Champions League rebranded from the European Cup?",
+      "expected": "1992",
+      "extractive": "1997–98",
+      "abstractive": "1992",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What country hosts the Copa América?",
+      "expected": "South America",
+      "extractive": "Argentina",
+      "abstractive": "Argentina",
+      "em": 0,
+      "f1": 0.0,
+      "rouge1": 0.0,
+      "rougeL": 0.0
+    },
+    {
+      "question": "What club plays at Camp Nou?",
+      "expected": "FC Barcelona",
+      "extractive": "FC Barcelona",
+      "abstractive": "FC Barcelona",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "In what city is Anfield located?",
+      "expected": "Liverpool",
+      "extractive": "Liverpool",
+      "abstractive": "Liverpool",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "When was Wembley Stadium reopened after reconstruction?",
+      "expected": "2007",
+      "extractive": "2007",
+      "abstractive": "2007",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What law governs offside in football?",
+      "expected": "Law 11",
+      "extractive": "Law 11",
+      "abstractive": "Law 11",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    },
+    {
+      "question": "What does VAR stand for?",
+      "expected": "Video Assistant Referee",
+      "extractive": "video assistant referee",
+      "abstractive": "video assistant referee",
+      "em": 1,
+      "f1": 1.0,
+      "rouge1": 1.0,
+      "rougeL": 1.0
+    }
+  ]
+}
